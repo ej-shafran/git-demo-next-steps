@@ -5,7 +5,7 @@ h1 {
 }
 
 p {
-	background-color: aqua;
+	background-color: rgb(37, 48, 48);
 	color: magenta;
 }
 td { font-size: 16px; }
